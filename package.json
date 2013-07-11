@@ -20,5 +20,17 @@
     "postinstall": "grunt coffee"
   },
   "author": "Tako Neko <oct8cat@gmail.com>",
-  "license": "BSD"
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oct8cat/grumpp"
+  },
+  "keywords": [
+    "xmpp",
+    "grunt",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/oct8cat/grumpp/issues"
+  }
 }
