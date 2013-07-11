@@ -1,0 +1,24 @@
+{
+  "name": "grumpp",
+  "version": "0.0.0",
+  "description": "XMPP bot that receives your messages and runs appropriate Grunt tasks on a remote server.",
+  "main": "lib/app.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-forever": "~0.4.1",
+    "node-stringprep": "~0.1.7",
+    "simple-xmpp": "~0.1.12"
+  },
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.4"
+  },
+  "scripts": {
+    "start": "grunt start",
+    "stop": "grunt stop",
+    "postinstall": "grunt coffee"
+  },
+  "author": "Tako Neko <oct8cat@gmail.com>",
+  "license": "BSD"
+}

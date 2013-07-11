@@ -1,0 +1,4 @@
+forever
+node_modules
+settings.*.json
+lib

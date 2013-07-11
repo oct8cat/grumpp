@@ -1,0 +1,13 @@
+{
+  "xmpp": {
+    "connect": {
+      "jid": "grummp@jabber.org",
+      "password": "secret",
+      "host": "jabber.org"
+    }
+  },
+  "gruntfiles": {
+    "some_project": "/home/www/some_project/Gruntfile.js",
+    "another_project": "/home/www/another_project/Gruntfile.js"
+  }
+}
