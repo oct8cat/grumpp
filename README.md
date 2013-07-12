@@ -56,7 +56,7 @@ There is an example of configuration file named `settings.example.json`.
 "Usage", values are paths to project's Gruntfile).
 3. Rename the configuration file to `settings.{$NODE_ENV}.json`, where
 `$NODE_ENV` is Node.js environment name (defaults to 'development', so the file
-name will be `settings.development.js`)
+name will be `settings.development.json`)
 
 
 Usage
