@@ -1,6 +1,6 @@
 {
   "name": "grumpp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "XMPP bot that receives your messages and runs appropriate Grunt tasks on a remote server.",
   "main": "lib/app.js",
   "dependencies": {
